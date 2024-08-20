@@ -51,15 +51,6 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
 
-<p>
-  <a href="https://github.com/username/repo1" style="display: inline-block; padding: 10px; margin: 5px; background-color: #f0f0f0; color: #333; text-decoration: none; border-radius: 5px;">Repo 1</a>
-  <a href="https://github.com/username/repo2" style="display: inline-block; padding: 10px; margin: 5px; background-color: #e0e0e0; color: #333; text-decoration: none; border-radius: 5px;">Repo 2</a>
-  <a href="https://github.com/username/repo3" style="display: inline-block; padding: 10px; margin: 5px; background-color: #d0d0d0; color: #333; text-decoration: none; border-radius: 5px;">Repo 3</a>
-  <a href="https://github.com/username/repo4" style="display: inline-block; padding: 10px; margin: 5px; background-color: #c0c0c0; color: #333; text-decoration: none; border-radius: 5px;">Repo 4</a>
-  <a href="https://github.com/username/repo5" style="display: inline-block; padding: 10px; margin: 5px; background-color: #b0b0b0; color: #333; text-decoration: none; border-radius: 5px;">Repo 5</a>
-</p>
-
----
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajazify&show_icons=true&locale=en" alt="ajazify" /></p>
 
